@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Türker Albayrak</h1>
-<p align="center">Software Engineer — OSTiM Technical University, Ankara</p>
+<p align="center">Software Engineering Student - OSTiM Technical University, Ankara</p>
 
 
 ---
