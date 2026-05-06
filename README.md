@@ -16,7 +16,7 @@ I am especially motivated by fields where software meets the physical world, par
 
 ### Currently Active
 
-- **C / C++** — mid-level programming, embedded systems, memory-aware and performance-oriented development
+- **C / C++** — ros systems, simulation systems, embedded systems, memory-aware and performance-oriented development
 - **React** — modern frontend development
 - **Node.js** — REST API development and backend services
 - **Python** — scripting, automation, and tooling
@@ -29,7 +29,7 @@ I am especially motivated by fields where software meets the physical world, par
 ### Focus Areas
 
 **Embedded Systems**  
-- Low-level programming, microcontroller development, firmware design, real-time systems, and hardware-software interfacing.
+- Embedded programming, microcontroller development, firmware design, real-time systems, and hardware-software interfacing.
 
 **Mobile Development**  
 - Modern Android/iOS app development, including performance-critical and real-time mobile software.
